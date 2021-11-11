@@ -1,0 +1,43 @@
+.main-div {
+  background: rgb(29, 26, 26);
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.decr-btn {
+  color: aliceblue;
+  border: none;
+  text-decoration: none;
+  background: red;
+  font-size: 60px;
+  width: 33%;
+  height: 33vh;
+  align-self: center;
+  cursor: pointer;
+}
+.visual {
+  color: aliceblue;
+  border: none;
+  text-decoration: none;
+  background: blue;
+  font-size: 50px;
+  width: 33%;
+  height: 33vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.incr-btn {
+  color: aliceblue;
+  border: none;
+  text-decoration: none;
+  background: yellow;
+  font-size: 60px;
+  width: 34%;
+  height: 33vh;
+  align-self: center;
+  cursor: pointer;
+}
